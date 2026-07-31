@@ -1,4 +1,4 @@
-### Adventure Works
+# Adventure Works
 
 ## Project Background
 
