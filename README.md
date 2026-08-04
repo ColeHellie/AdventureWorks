@@ -1,6 +1,3 @@
-# Adventure Works
-  
-
 ## Project Background
   Adventure Works Cycles, a global bicycle manufacturer that sells bikes, components, and accessories, recently discovered that the company was losing money on one of its popular models, the LL Road Frame–Black 60. Even though this model has a strong reputation, sales have declined, and the reason behind the drop is not immediately clear. Leadership requested an investigation into potential causes affecting the product’s performance.
 
