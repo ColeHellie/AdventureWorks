@@ -11,6 +11,10 @@ There are many variables that can contribute to a decrease in sales, but the ini
   <img src="ERD.png" width="700">
 </p>
 
+The ERD above shows the core tables used in this analysis and how product, pricing history, and sales data are connected through shared keys like ProductID and SalesOrderID. These tables served as the foundation for creating temporary tables that helped compare product performance and analyze pricing and discount history.
+
+- Sales 
+
 ## Executive Summary
 
 ## Insights Deep Dive
