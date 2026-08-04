@@ -1,6 +1,0 @@
-#Created Temporary Table - MyProduct
-CREATE TEMPORARY TABLE MyProduct AS
-SELECT *
-FROM Production.Product
-WHERE Name LIKE 'LL Road Frame%';
-
