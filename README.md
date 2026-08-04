@@ -9,7 +9,7 @@ There are many variables that can contribute to a decrease in sales, but the ini
 ## Data Structure
 
 
-![ERD Diagram](https://raw.githubusercontent.com/YourUserName/YourRepoName/main/ERD.png)
+![ERD Diagram](https://raw.githubusercontent.com/ColeHellie/AdventureWorks/main/ERD.png)
 
 ## Executive Summary
 
