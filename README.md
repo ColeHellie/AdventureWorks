@@ -1,7 +1,7 @@
 ## Project Background
-  Adventure Works Cycles, a global bicycle manufacturer that sells bikes, components, and accessories, recently discovered that the company was losing money on one of its popular models, the LL Road Frame–Black 60. Even though this model has a strong reputation, sales have declined, and the reason behind the drop is not immediately clear. Leadership requested an investigation into potential causes affecting the product’s performance.
+  Adventure Works Cycles, a global bicycle manufacturer specializing in bikes, components, and accessories, recently identified a profitability issue with one of its historically strong products being the LL Road Frame–Black 60. Despite the model’s reputation and consistent demand in prior years, sales declined and margins tightened. Leadership requested an investigation into potential causes driving the weak performance.
 
-  There are many variables that can contribute to a decrease in sales, but the initial research focused on specific areas such as production and sales data, including total sales, list price, order dates, and unit price. Historical data from the AdventureWorks2017 database was analyzed by creating SQL queries, temporary tables, and stored procedures. This approach made it possible to break down the problem and gain a better understanding of each variable that could be influencing the decline in sales for the LL Road Frame–Black 60.
+  To understand the issue, the analysis focused on production and sales‑related variables such as total sales, list price, order dates, and unit price. Using the AdventureWorks2017 database, SQL queries, temporary tables, and stored procedures were created to isolate trends, compare product variations, and evaluate pricing behavior over time. This structured approach made it possible to break down the problem and identify factors contributing to the LL Road Frame–Black 60’s declining performance.
 
 ## Data Structure
 <p align="center">
@@ -16,7 +16,41 @@
 - Product: Stored core product attributes used to link sales and pricing data back to each item.
 
 ## Executive Summary
+  The LL Road Frame–Black 60 experienced a decline in sales and profitability driven by a combination of higher production costs, lack of promotional activity, and variation in customer preference across size and color combinations.
+
+  Although the model maintained a stable list price, internal cost differences between the black and red variations significantly impacted margins. Additionally, incomplete customer feedback data limited the ability to fully understand buying motivations, leaving potential demand‑related factors unexplored.
+
+  Overall, the analysis suggests that the LL Road Frame–Black 60’s performance issues stem from operational cost inefficiencies and product‑level preference trends rather than external market shifts or pricing strategy failures.
 
 ## Insights Deep Dive
+### 1. Cost Variance Between Color Models
+  One of the most impactful findings was the 8% higher standard cost associated with producing the black frame models compared to the red versions. While customers paid the same price regardless of color, the increased production cost directly reduced profit margins. For example, on 7/31/2013, the company sold 27 units of the LL Road Frame–Black 60. Revenue remained consistent with expectations, but profit was noticeably lower due to the elevated cost of goods sold. This pattern repeated across multiple sales periods.
+
+### 2. Variation in Customer Preference
+  Analysis of the “Sales by Size and Color” dataset revealed substantial differences in quantity sold across color variations for the same size. Some colors consistently outperformed others, suggesting that customer preference plays a meaningful role in demand for specific frame configurations. The LL Road Frame–Black 60 showed weaker performance relative to its red counterpart, indicating that color preference may be contributing to the decline in sales volume.
+
+### 3. Limited Promotional Activity
+Historical pricing data showed minimal discounting or promotional adjustments for the LL Road Frame–Black 60. While stable pricing can signal product strength, it may also reduce competitiveness if customer interest shifts toward alternative models or color variations. - Change wording to match my writing level.
+
+### 4. Data Limitations
+The AdventureWorks2017 database contains incomplete and occasionally inaccurate data. Missing “buying reason” fields for LL Road Frame models restricted the ability to analyze customer motivations. Additionally, occasional inconsistencies in sales quantities or prices required careful validation during analysis. These limitations do not invalidate the findings but highlight areas where improved data collection could strengthen future decision‑making.
 
 ## Recommendations
+### 1. Improve Customer Feedback Collection
+  Enhancing the completeness and accuracy of customer feedback—especially around buying reasons, product preferences, and perceived value—would provide clearer insight into why certain color and size combinations underperform.
+
+### 2. Investigate and Reduce Production Costs
+  The 8% higher standard cost for black frames is a direct contributor to reduced profitability. A deeper operational review should be conducted to determine whether:
+  - Material costs differ significantly,
+  - Production processes vary between color models,
+  - Supplier pricing or inefficiencies are driving the cost gap.
+Reducing this variance would immediately improve margins.
+
+3. Evaluate Promotional Strategy
+Introducing targeted promotions or discounts for underperforming color/size combinations could help stimulate demand and rebalance inventory turnover.
+
+4. Expand Product Variation Analysis
+Given the strong differences in performance across colors and sizes, leadership should consider:
+- Adjusting production volume to align with customer preference trends.
+- Testing new color variations.
+- Conducting A/B pricing or promotional experiments.
