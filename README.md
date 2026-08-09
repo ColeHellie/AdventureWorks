@@ -22,6 +22,8 @@
 
   Overall, the analysis suggests that the LL Road Frame–Black 60’s performance issues stem from operational cost inefficiencies and product‑level preference trends rather than external market shifts or pricing strategy failures.
 
+##    
+
 ## Insights Deep Dive
 ### 1. Cost Variance Between Color Models
   One of the most impactful findings was the 8% higher standard cost associated with producing the black frame models compared to the red versions. While customers paid the same price regardless of color, the increased production cost directly reduced profit margins. For example, on 7/31/2013, the company sold 27 units of the LL Road Frame–Black 60. Revenue remained consistent with expectations, but profit was noticeably lower due to the elevated cost of goods sold. This pattern repeated across multiple sales periods.
