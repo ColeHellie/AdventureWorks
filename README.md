@@ -46,10 +46,10 @@
   - Supplier pricing or inefficiencies are driving the cost gap.
 Reducing this variance would immediately improve margins.
 
-3. Evaluate Promotional Strategy
+### 3. Evaluate Promotional Strategy
   Introducing targeted promotions or discounts for underperforming color/size combinations could help stimulate demand and improve inventory turnover.
 
-4. Expand Product Variation Analysis
-Given the strong differences in performance across colors and sizes, leadership should consider:
+### 4. Expand Product Variation Analysis
+  Given the strong differences in performance across colors and sizes, leadership should consider:
 - Adjusting production volume to align with customer preference trends.
 - Conducting A/B pricing or promotional experiments.
