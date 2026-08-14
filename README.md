@@ -15,14 +15,12 @@
 - Product List Price History: Tracked historical list price changes to evaluate pricing and discount trends.
 - Product: Stored core product attributes used to link sales and pricing data back to each item.
 
-## <span class="blue-text"> Executive Summary </span>
+## Executive Summary
   The LL Road Frame–Black 60 experienced a decline in sales and profitability driven by a combination of higher production costs, lack of promotional activity, and variation in customer preference across size and color combinations.
 
   Although the model maintained a stable list price, internal cost differences between the black and red variations significantly impacted margins. Additionally, incomplete customer feedback data limited the ability to fully understand buying motivations, leaving potential demand‑related factors unexplored.
 
-  Overall, the analysis suggests that the LL Road Frame–Black 60’s performance issues stem from operational cost inefficiencies and product‑level preference trends rather than external market shifts or pricing strategy failures.
-
-##    
+  Overall, the analysis suggests that the LL Road Frame–Black 60’s performance issues stem from operational cost inefficiencies and product‑level preference trends rather than external market shifts or pricing strategy failures.  
 
 ## Insights Deep Dive
 ### 1. Cost Variance Between Color Models
