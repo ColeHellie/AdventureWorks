@@ -3,6 +3,8 @@
 
   To understand the issue, the analysis focused on production and sales‑related variables like total sales, list price, order dates, and unit price. Using the AdventureWorks2017 database, SQL queries, temporary tables, and stored procedures were created to isolate trends, compare product variations, and evaluate pricing behavior over time. This structured approach made it possible to break down the problem and identify the factors contributing to the LL Road Frame–Black 60’s declining performance.
 
+---
+
 ## Data Structure
 <p align="center">
   <img src="ERD.png" width="700">
@@ -15,12 +17,16 @@
 - Product List Price History: Tracked historical list price changes to evaluate pricing and discount trends.
 - Product: Stored core product attributes used to link sales and pricing data back to each item.
 
+---
+
 ## Executive Summary
   The LL Road Frame–Black 60 experienced a decline in sales and profitability driven by a combination of higher production costs, lack of promotional activity, and variation in customer preference across size and color combinations.
 
   Although the model maintained a stable list price, internal cost differences between the black and red variations significantly impacted margins. Additionally, incomplete customer feedback data limited the ability to fully understand buying motivations, leaving potential demand‑related factors unexplored.
 
   Overall, the analysis suggests that the LL Road Frame–Black 60’s performance issues stem from operational cost inefficiencies and product‑level preference trends rather than external market shifts or pricing strategy failures.  
+
+---
 
 ## Insights Deep Dive
 ### 1. Cost Variance Between Color Models
@@ -34,6 +40,8 @@
 
 ### 4. Data Limitations
   The AdventureWorks2017 database contains incomplete and occasionally inaccurate data. Missing “buying reason” fields for the LL Road Frame models limited the ability to understand customer motivations. There were also some inconsistencies in sales quantities and prices noted throughout the analysis. These limitations do not invalidate the findings, but they do highlight areas where better data collection and accuracy would strengthen future decision‑making.
+
+---
 
 ## Recommendations
 ### 1. Improve Customer Feedback Collection
